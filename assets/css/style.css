@@ -633,6 +633,7 @@ section {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
 }
 
 .our-values .card-body {
