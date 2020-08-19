@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-social-links a:hover {
-  color: #57338a;
+  color: #ad2b45;
 }
 
 @media (max-width: 768px) {
@@ -346,7 +346,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #57338a;
+  color: #ad2b45;
   text-decoration: none;
 }
 
